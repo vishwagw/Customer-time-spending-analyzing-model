@@ -1,0 +1,18 @@
+Customer_ID,Entry_Time,Exit_Time,Duration_Seconds,Duration_Formatted
+1,0.20s,2.84s,2.64,0:00:02
+2,0.20s,0.92s,0.72,0:00:00
+3,0.20s,2.72s,2.52,0:00:02
+4,0.20s,1.32s,1.12,0:00:01
+5,0.20s,Still in restaurant,N/A,N/A
+6,0.20s,Still in restaurant,N/A,N/A
+7,0.28s,1.00s,0.72,0:00:00
+8,0.28s,Still in restaurant,N/A,N/A
+9,0.60s,1.04s,0.44,0:00:00
+10,0.68s,1.72s,1.04,0:00:01
+12,0.80s,Still in restaurant,N/A,N/A
+13,1.24s,2.36s,1.12,0:00:01
+14,1.64s,Still in restaurant,N/A,N/A
+15,1.68s,1.92s,0.24,0:00:00
+17,1.84s,Still in restaurant,N/A,N/A
+18,3.32s,Still in restaurant,N/A,N/A
+19,3.44s,Still in restaurant,N/A,N/A
